@@ -12,7 +12,9 @@
 
     API access;
 
-    useState, useEffect and useRef Hooks, to make the links container, which opens when clicking on the hamburger menu in resolutions up to 799px, be the exact size         needed to show all the links contained in the data API;
+    useState, useEffect and useRef Hooks, to make the links container, which opens when clicking on the 
+    hamburger menu in resolutions up to 799px, be the exact size needed to show all the links contained in
+    the data API;
     
     React-icons.
     
